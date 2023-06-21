@@ -4,11 +4,18 @@
     color: #FFFFFF;
 }
 
-.big-header {
-    font-size: 32px;
+.headers {
+    color: #BB86FC;
+}
+
+.list {
+    color: #03DAC6;
+}
+
+.list.list-text {
+    color: #FFFFFF;
 }
 
 .links {
     color: #018786;
-    font-size: 18px;
 }
