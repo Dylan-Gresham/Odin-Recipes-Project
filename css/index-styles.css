@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #121212;
+    color: #FFFFFF;
+}
+
+.big-header {
+    font-size: 32px;
+}
+
+.links {
+    color: #BB86FC;
+    font-size: 18px;
+}
