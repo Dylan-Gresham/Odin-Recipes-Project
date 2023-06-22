@@ -4,8 +4,19 @@
     color: #FFFFFF;
 }
 
+div {
+    text-align: center;
+}
+
 .big-header {
     font-size: 32px;
+    margin-top: 20%;
+    margin-left: 2.5%;
+}
+
+ul li {
+    display: block;
+    margin: 0.75% 0;
 }
 
 .links {
